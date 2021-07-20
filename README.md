@@ -1,5 +1,5 @@
 ## Bienvenue sur le Github de _Maël Magnien_ !
-<img src="https://i.ibb.co/dJGRXTV/montagne-neige.jpg" alt="Montagne Neige" style="zoom:15%;" />
+<img src="https://i.ibb.co/dJGRXTV/montagne-neige.jpg" alt="Montagne Neige"/>
 
 #### *Présentation* :
 Bienvenue sur ma page **GitHub**
