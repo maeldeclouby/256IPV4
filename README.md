@@ -27,7 +27,7 @@ Ici, c'est un endroit ou tu pourra trouver **des ressources totalement Open Sour
 
 #### *Mes projets* :
 
-- [Adarya](adarya.club) : Un Bot Twitch Multi Fonction et 100% gratuit financé par la pub 🎊.
+- [Adarya](https://adarya.club) : Un Bot Twitch Multi Fonction et 100% gratuit financé par la pub 🎊.
 ####
 
 #### *Quelques chiffres Github* : 
