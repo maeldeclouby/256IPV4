@@ -13,12 +13,12 @@ Ici, c'est un endroit ou tu pourra trouver **des ressources totalement Open Sour
 🎉.
 
 #### *Je pratique* :
--   Linux
--   Docker
--   Kubernetes
--   HTML, CSS
--   Javascript, NodeJS
--   Java
+- Linux
+- Docker
+- Kubernetes
+- HTML, CSS
+- Javascript, NodeJS
+- Python
 
 #### *Les outils que j'utilise* :
 -   Git, GitHub
@@ -27,9 +27,7 @@ Ici, c'est un endroit ou tu pourra trouver **des ressources totalement Open Sour
 
 #### *Mes projets* :
 
-- [Adarya](https://adarya.club) : Serveur Minecraft Mini-jeux & UHC en version 1.8 + | Le [Discord](https://adarya.club/discord) 🎊
-####
-- *Soon*
+- [Adarya](adarya.club) : Un Bot Twitch Multi Fonction et 100% gratuit financé par la pub 🎊.
 ####
 
 #### *Quelques chiffres Github* : 
